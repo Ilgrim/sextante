@@ -1,0 +1,20 @@
+/* style.css - custom styles */
+
+body {
+	padding-top:70px; /* prevents navbar-fixed-top from covering jumbotron on small screens */
+}
+
+.demobtn {
+   width:150px;
+}
+
+
+.get_coord {
+    position: relative;
+}
+
+.point {
+    position: absolute;
+    width:25px;
+    cursor:pointer;
+}
